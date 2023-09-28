@@ -7,8 +7,7 @@ import requests
 import json
 from threading import Timer
 
-intents = discord.Intents.all()
-intents.message_content = True
+intents = discord.Intents.default()
 
 bot = commands.Bot(command_prefix='.', intents=intents, activity=discord.Activity(type=discord.ActivityType.listening, name="/help"), status=discord.Status.online)
 

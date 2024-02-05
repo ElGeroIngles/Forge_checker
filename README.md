@@ -1,7 +1,7 @@
 
 # Forge Chekcer
 
-Forge Checker is a python bot originally created on 23th of March of 2022 in javascript, and then migrated to python and finally optimized and uploaded today 28th of September of 2023. The bot checks the forge for the best flips you can do using the official [Hypixel Bazaar API](https://api.hypixel.net/#tag/SkyBlock/paths/~1skyblock~1bazaar/get).
+Forge Checker is a python bot originally created on 23th of March of 2022 in javascript, then migrated to python and finally optimized and uploaded today 28th of September of 2023. The bot checks the forge for the best flips you can do using the official [Hypixel Bazaar API](https://api.hypixel.net/#tag/SkyBlock/paths/~1skyblock~1bazaar/get).
 
 ## Special Thanks
 
